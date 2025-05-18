@@ -42,3 +42,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 2. Masuk folder tersebut, kemudian github ini di dalamnya.
 3. Masuk ke dalam folder hasil clone, kemudian buka dalam bentuk terminal.
 4. Untuk menjalankan backend "npm run dev".
+
+![Screenshot (3)](https://github.com/user-attachments/assets/7e36d976-242a-4fc5-893f-cf34d88979dd)
+
+
+![Screenshot 2025-05-18 155039](https://github.com/user-attachments/assets/c393ff79-553e-4f3a-ba2b-83113a0037ae)
