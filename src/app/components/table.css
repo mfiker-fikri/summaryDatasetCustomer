@@ -1,0 +1,57 @@
+/* table.css */
+.section {
+  margin-bottom: 2rem;
+}
+
+.table-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f9fafb;
+  min-height: 100vh;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.custom-table th {
+  background-color: #f3f4f6; 
+  font-weight: bold;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.pagination button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.pagination button:disabled {
+  background-color: #eee;
+  cursor: not-allowed;
+}
+
+.textPagination {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: black;
+}
